@@ -7,7 +7,7 @@ var inputValue=document.getElementById("guess").value;
 
 function  randomNumGenerator()
 {
-	randomNum=Math.floor(Math.random()*54)-14;
+	randomNum=Math.floor(Math.random()*41)-20;
 	document.getElementById("num").innerText=randomNum;
 	guessNum();
 	print();
