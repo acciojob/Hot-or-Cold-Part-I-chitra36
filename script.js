@@ -1,4 +1,4 @@
-//your code here
+
 var btn=document.getElementById("btn");
 var numPtag=document.getElementById("num");
 var res=document.getElementById("respond");
